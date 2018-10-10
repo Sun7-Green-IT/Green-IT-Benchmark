@@ -8,9 +8,9 @@ Le but du projet est de réaliser un benchmark de plusieurs api REST sur différ
 
 ## Candidats
 
-⋅⋅⋅**Express** v4.16.3 -> NodeJS v8.10.0
-⋅⋅⋅**Hapi** v17.6.0 -> NodeJS v8.10.0
-⋅⋅⋅**Rocket** v0.3.17 -> Rust v1.31.0-nightly
+⋅⋅⋅ **Express** v4.16.3 -> NodeJS v8.10.0
+⋅⋅⋅ **Hapi** v17.6.0 -> NodeJS v8.10.0
+⋅⋅⋅ **Rocket** v0.3.17 -> Rust v1.31.0-nightly
 
 ## Benchmark
 
