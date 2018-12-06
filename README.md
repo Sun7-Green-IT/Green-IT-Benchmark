@@ -14,6 +14,8 @@ Le but du projet est de réaliser un benchmark de plusieurs api REST sur différ
 
 &nbsp;**Rocket** v0.3.17 -> Rust v1.31.0-nightly
 
+&nbsp;**Laravel** v5.7 -> PHP v7.2.13
+
 ## Benchmark
 
 Pour la construction de notre benchmark, nous allons tester nos différentes api avec 4 différentes requêtes sur l’api :
